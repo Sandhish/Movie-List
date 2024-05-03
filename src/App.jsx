@@ -6,7 +6,7 @@ function App() {
     <>
       <Navbar />
 
-      <main p-3 m-2 >
+      <main p-3="true" m-2="true">
         <div className="row border boder-black">
           <div className="col-4">
             <MovieCard title="Mankatha"  image="https://th.bing.com/th/id/R.08463672be37dcad70e01734ebbfd5ec?rik=NEnMmXjjZHFfmg&riu=http%3a%2f%2fwww.impawards.com%2fintl%2findia%2f2011%2fposters%2fmankatha.jpg&ehk=T57uLtFZd%2bRv5FVjHUmWEgwdhz9D1Lz1N5UK7FwzK84%3d&risl=&pid=ImgRaw&r=0" desc="ACP Vinayak Mahadevan of Maharashtra Police is suspended for having saved a smuggler named Faizal from encounter killing and helping him escape. Later, a police officer named Kamal Ekambaram commits suicide because of the leakage of his IPL gambling plans. ACP Prithviraj takes charge to end the betting scandals in IPL cricket in Mumbai. "/>
